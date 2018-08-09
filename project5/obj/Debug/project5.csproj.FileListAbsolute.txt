@@ -1,0 +1,15 @@
+F:\learaning\برنامه نویسی\پروژه های خودم برای انتشار سایت زرین هور\project5\project5\bin\Debug\project5.exe
+F:\learaning\برنامه نویسی\پروژه های خودم برای انتشار سایت زرین هور\project5\project5\bin\Debug\project5.pdb
+F:\learaning\برنامه نویسی\پروژه های خودم برای انتشار سایت زرین هور\project5\project5\obj\Debug\project5.Form1.resources
+F:\learaning\برنامه نویسی\پروژه های خودم برای انتشار سایت زرین هور\project5\project5\obj\Debug\project5.Properties.Resources.resources
+F:\learaning\برنامه نویسی\پروژه های خودم برای انتشار سایت زرین هور\project5\project5\obj\Debug\project5.csproj.GenerateResource.Cache
+F:\learaning\برنامه نویسی\پروژه های خودم برای انتشار سایت زرین هور\project5\project5\obj\Debug\project5.exe
+F:\learaning\برنامه نویسی\پروژه های خودم برای انتشار سایت زرین هور\project5\project5\obj\Debug\project5.pdb
+C:\Users\Golzari\Downloads\Compressed\project C#\project5\project5\obj\Debug\project5.exe
+C:\Users\Golzari\Downloads\Compressed\project C#\project5\project5\obj\Debug\project5.pdb
+C:\Users\Golzari\Downloads\Compressed\project C#\project5\project5\bin\Debug\project5.exe
+C:\Users\Golzari\Downloads\Compressed\project C#\project5\project5\bin\Debug\project5.pdb
+C:\Users\Golzari\Downloads\Compressed\project C#\project5\project5\obj\Debug\project5.csprojResolveAssemblyReference.cache
+C:\Users\Golzari\Downloads\Compressed\project C#\project5\project5\obj\Debug\project5.Form1.resources
+C:\Users\Golzari\Downloads\Compressed\project C#\project5\project5\obj\Debug\project5.Properties.Resources.resources
+C:\Users\Golzari\Downloads\Compressed\project C#\project5\project5\obj\Debug\project5.csproj.GenerateResource.Cache
